@@ -32,12 +32,12 @@
     - `for문 중첩 <https://github.com/algocoding/ad/blob/master/03Day/SubsetIter.java>`_
     - `재귀 호출 + bit 배열 <https://github.com/algocoding/ad/blob/master/03Day/SubsetRecur.java>`_
     
-#. 3개 요소들의 순열 생성
+#. 순열 생성
     - `for문 중첩 <https://github.com/algocoding/ad/blob/master/03Day/PermIter.java>`_
     - `재귀 호출 + 요소들 인덱스 나열(array) <https://github.com/algocoding/ad/blob/master/03Day/PermRecur1.java>`_
     - `재귀 호출 + 요소들 인덱스 나열(bit op) <https://github.com/algocoding/ad/blob/master/03Day/PermRecur2.java>`_
 
-#. 3개에서 2개 뽑는 조합 생성
+#. 조합 생성
     - `for문 중첩 <https://github.com/algocoding/ad/blob/master/03Day/CombIter.java>`_
     - `재귀 호출 <https://github.com/algocoding/ad/blob/master/03Day/CombRecur.java>`_
 
