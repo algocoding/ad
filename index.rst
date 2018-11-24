@@ -21,8 +21,8 @@
     - `BFS + 라이브러리 큐 사용 <https://github.com/algocoding/ad/blob/master/02Day/BFSWithLibraryDemo.java>`_
 
 #. 최단 경로(Brute force)
-    - `DFS <https://github.com/algocoding/ad/blob/master/02Day/ShortestPathBFSMatrix.java>`_
-    - `BFS <https://github.com/algocoding/ad/blob/master/02Day/ShortestPathDFS.java>`_
+    - `BFS + 간선완화 <https://github.com/algocoding/ad/blob/master/02Day/ShortestPathBFSMatrix.java>`_
+    - `DFS + 간선완화 <https://github.com/algocoding/ad/blob/master/02Day/ShortestPathDFS.java>`_
 
 03 Day
 ===============================
