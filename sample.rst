@@ -45,8 +45,8 @@
 04 Day
 ===============================
 
-- `동전 교환 <https://github.com/algocoding/ad/blob/master/04Day/CoinChangeDemo.java>`_
-- `N-Queen <https://github.com/algocoding/ad/blob/master/04Day/nQueenDemo.java>`_
+#. `동전 교환 <https://github.com/algocoding/ad/blob/master/04Day/CoinChangeDemo.java>`_
+#. `N-Queen <https://github.com/algocoding/ad/blob/master/04Day/nQueenDemo.java>`_
 
 
 ..
