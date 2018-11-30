@@ -7,7 +7,7 @@
 
 .. note::
 
-    :download:`연습문제 코드<https://github.com/algocoding/ad/blob/master/ex.zip>` 
+    - `연습문제 코드 다운로드 <https://github.com/algocoding/ad/blob/master/ex.zip>`_
 
 
 .. toctree::   
