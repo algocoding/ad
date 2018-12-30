@@ -28,10 +28,11 @@ Library
 아래 문제들은 acmicpc.net 에서 볼 수 있습니다.
 
 #. `소트 인사이드 <https://www.acmicpc.net/problem/1427>`_
-#. `단어 정렬 <https://www.acmicpc.net/problem/1181>`_
+    - `카운팅 정렬 <https://github.com/algocoding/ad/blob/master/09Library/BOJ1427.java>`_
 #. `보물 <https://www.acmicpc.net/problem/1026>`_
-#. `전화 번호 목록 만들기 <https://www.acmicpc.net/problem/5052>`_
-#. `빈도 정렬 <https://www.acmicpc.net/problem/2910>`_
+    - `배열 오름차순/내림차순 정렬 <https://github.com/algocoding/ad/blob/master/09Library/BOJ1026.java>`_
 #. `회사에 있는 사람 <https://www.acmicpc.net/problem/7785>`_
+    - TreeSet 활용 <https://github.com/algocoding/ad/blob/master/09Library/BOJ7785.java>`_
 #. `괄호 <https://www.acmicpc.net/problem/9012>`_
-#. `프린터큐 <https://www.acmicpc.net/problem/1966>`_
+    - `Stack 활용 <https://github.com/algocoding/ad/blob/master/09Library/BOJ7785.java>`_
+
